@@ -1,0 +1,10 @@
+.idea/
+ant.properties
+aplicacaoLeandro.iml
+build.xml
+gen/
+local.properties
+out/
+proguard-project.txt
+project.properties
+
